@@ -1,0 +1,4 @@
+name khalid
+dept chemistry
+subj physical
+salary 25000
